@@ -194,9 +194,17 @@ python main.py
 ```
 
 ## 📄 License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+What this means:
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Free for personal, educational, and community use
+Open source contributions welcome
+Modifications must remain open source
+Cannot be used in proprietary/commercial software
+Derivative works must use the same license
 
+This ensures the tool remains free and benefits the cybersecurity community while protecting the developer's work from commercial exploitation.
+See the LICENSE file for full details.
 ## ⚠️ Disclaimer
 
 This software is provided "as is" without warranties. Users are responsible for ethical and legal use of this tool. It should not be used for malicious or unauthorized activities.
