@@ -9,7 +9,7 @@ A vulnerability scanner that searches for CVEs and available exploits using mult
 - **Public Exploit Detection** from multiple trusted sources
 - **Detailed Visual Reports** with formatted tables and colors
 - **Concurrent Processing** for improved efficiency
-- 🛡**Risk Analysis** based on CVSS scoring
+- **Risk Analysis** based on CVSS scoring
 - **Direct Links** to exploits and technical documentation
 - **Intuitive Interface** with Rich for enhanced user experience
 
