@@ -1,0 +1,21 @@
+# Escáner de Vulnerabilidades - Dependencias
+# ===========================================
+
+# Librería para peticiones HTTP
+requests>=2.31.0
+
+# Librería para crear interfaces de consola ricas y coloridas
+rich>=13.0.0
+
+# Librería para manejo de fechas (opcional, para mejores funcionalidades futuras)
+python-dateutil>=2.8.0
+
+# Librerías para testing (opcional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Librería para validación de datos (opcional)
+pydantic>=2.0.0
+
+# Librería para logging avanzado (opcional)
+loguru>=0.7.0
